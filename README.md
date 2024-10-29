@@ -18,7 +18,7 @@
 ## Usage
 - **Add a Testimonial**: Enter your name and feedback. The submit button will enable once feedback meets the required character length. 🖊️
 - **Delete Feedback**: Remove any feedback entry with the delete option. 🗑️
-_ ** Feedback Validation**: Feedback must meet the character length requirement for submission to be enabled.
+- ** Feedback Validation**: Feedback must meet the character length requirement for submission to be enabled.
 
 ## 🌐 Live Demo
 🌟 Visit Testimonials UI ([https://testimonialsui.netlify.app/]).
